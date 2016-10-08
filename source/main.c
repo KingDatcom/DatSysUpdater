@@ -27,7 +27,7 @@ int main() {
 	
 	clearScreen();
 	
-	printf("SansSysUpdater\n");
+	printf("DatSysUpdater\n");
 	printf("EXPERIMENTAL 11.x DOWNGRADER\n");
 	printf("DO NOT REDISTRIBUTE!\n\n");
 	svcSleepThread(500000000);
